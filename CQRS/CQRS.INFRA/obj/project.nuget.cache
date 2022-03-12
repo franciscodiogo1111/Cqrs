@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwSZcuHRf0V5GKRj2mPxLpnc8xEDK3snjeECgcR8qTFPYPpflYp0Hd0dgKWa2RdVD2ohy5RKljqtxpTCLoUIoA==",
+  "success": true,
+  "projectFilePath": "C:\\ebookRevisado\\CQRS\\CQRS\\CQRS.INFRA\\CQRS.INFRA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
